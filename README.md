@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="images/logo.png" alt="Lightning Bolt" width="60" height="60" />
+  
 # SatAI: The Conversational Layer for Bitcoin Finance
+</div>
 
 Welcome to the official repository for **SatAI**, an advanced AI agent designed to revolutionize how users interact with sBTC (Stacked Bitcoin) and the Stacks ecosystem.
 
@@ -41,7 +45,7 @@ Using SatAI is designed to be intuitive and effortless.
 
 SatAI is built on a robust foundation that combines advanced AI models with secure blockchain technology.
 
-- **AI Engine**: Powered by advanced language models to understand and process natural language inputs. We leverage the **Chain Opera AI Agent** for specialized Web3 queries and also integrate with models from **Google Gemini** and **TogetherAI**.
+- **AI Engine**: Powered by advanced language models to understand and process natural language inputs. We leverage the **Chain Opera AI Agent** for specialized Web3 queries and also integrate with models from **Google Gemini** and **OpenAI**.
 
   - **Chain Opera Implementation Snippet:**
 
